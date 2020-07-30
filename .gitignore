@@ -103,3 +103,6 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+# Cookie Engine Specific
+**/bin/
+bin-int/
